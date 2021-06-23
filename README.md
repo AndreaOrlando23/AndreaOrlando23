@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 :link: **[TomorrowDevs](https://www.tomorrowdevs.com/)** is a community where we can learn by doing. Our **Learning** **Paths** are integrated by individual and team projects and so on!
        We can use many tools as **Trello**, **Slack**, **Mattermost**, **GitHub** according to **Agile** methodologies.<br/>
-       We are supported by **Mentors with expertise in different fields.
+       We are supported by **Mentors** with expertise in different fields.
 
 ## Technologies:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
