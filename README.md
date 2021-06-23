@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🏢 I’m currently working as a Supply Chain Analyst at HTD Medical
-- 🌱 I'm improving my skills at **[TomorrowDevs](https://www.tomorrowdevs.com/)**
+- 🌱 I'm improving my skills at **TomorrowDevs**
 - 💻 I’m learning **Python**, **Django**, **MySQL**, **Docker**
 - ⚙️ I love coding and I desire learn more about **Data Science** 
 - 🌍 I'm also travel addicted and I wrote a **[guidebook](https://www.meteotrip.it/bologna-istanbul-in-treno/)** about a journey
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <a href= "https://www.linkedin.com/in/andreaorlando87/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
 
-:link: **TomorrowDevs** is a community where we can learn by doing. Our **Learning** **Paths** are integrated by individual and team projects and so on!
+:link: **[TomorrowDevs](https://www.tomorrowdevs.com/)** is a community where we can learn by doing. Our **Learning** **Paths** are integrated by individual and team projects and so on!
        We can use many tools as **Trello**, **Slack**, **Mattermost**, **GitHub** according to **Agile** methodologies.<br/>
        We are supported by **Mentors with expertise in different fields.
 
