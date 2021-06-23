@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 <a href= "https://www.linkedin.com/in/andreaorlando87/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
 
-:link: **TomorrowDevs** is a community where we can learn by doing. Our **Learning** **Paths** are integrated by individual and team projects
-       We can use many tools as **Trello**, **Slack**, **Mattermost**, **GitHub** according to **Agile** methodologies
-       We are supported by **Mentors with expertise in different fields
+:link: **TomorrowDevs** is a community where we can learn by doing. Our **Learning** **Paths** are integrated by individual and team projects and so on!
+       We can use many tools as **Trello**, **Slack**, **Mattermost**, **GitHub** according to **Agile** methodologies.
+       We are supported by **Mentors with expertise in different fields.
 
 ## Technologies:
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=Python)
