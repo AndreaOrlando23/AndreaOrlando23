@@ -15,17 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<<<<<<< HEAD
+
 - 🏢 I’m currently working as a Applcation Consultant at Sirio Informatica
 - 🌱 I'm upskilling at **[TomorrowDevs](https://www.tomorrowdevs.com/)**
-=======
-- 🏢 I’m currently working as a Supply Chain Analyst at HTD Medical
-- 🌱 I'm improving my skills at **TomorrowDevs**
->>>>>>> 75f5ea0b3946b89534d800ffe0202bc7b2dbd4ed
+
 - 💻 I’m learning **Python**, **Django**, **MySQL**, **Docker**
 - ⚙️ I love coding and I'm improving my skills to become a Data Analytics and dive in **Data Science** world
 - 🌍 I'm also travel addicted and I wrote a **[guidebook](https://www.meteotrip.it/bologna-istanbul-in-treno/)** about a journey
-- :honeybee: I'd like to work more as a **Developer** on the job
+- :honeybee: I'd like to work more as a **Developer** and take value from Data
 
 
 <a href= "https://www.linkedin.com/in/andreaorlando87/"> <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" height="18" width="18"/> <b>My LinkedIn </b></a>
