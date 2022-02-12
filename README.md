@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏢 I’m currently working as a Supply Chain Analyst at HTD Medical
-- 🌱 I'm improving my skills at **[TomorrowDevs](https://www.tomorrowdevs.com/)**
+- 🏢 I’m currently working as a Applcation Consultant at Sirio Informatica
+- 🌱 I'm upskilling at **[TomorrowDevs](https://www.tomorrowdevs.com/)**
 - 💻 I’m learning **Python**, **Django**, **MySQL**, **Docker**
-- ⚙️ I love coding and I desire learn more about **Data Science** 
+- ⚙️ I love coding and I'm improving my skills to become a Data Analytics and dive in **Data Science** world
 - 🌍 I'm also travel addicted and I wrote a **[guidebook](https://www.meteotrip.it/bologna-istanbul-in-treno/)** about a journey
 - :honeybee: I'd like to work more as a **Developer** on the job
 
